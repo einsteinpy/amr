@@ -1,0 +1,31 @@
+ number_procs = 2
+ threads = 4
+ simd width (doubles) = 2
+AMRInterpolatorTest.inputs
+Parameter: center not found in parameter file. It has been set to its default value.
+Parameter: regrid_threshold not found in parameter file. It has been set to its default value.
+Parameter: dt_multiplier not found in parameter file. It has been set to its default value.
+Parameter: fill_ratio not found in parameter file. It has been set to its default value.
+Parameter: hi_boundary not found in parameter file. It has been set to its default value.
+Parameter: lo_boundary not found in parameter file. It has been set to its default value.
+Parameter: ignore_checkpoint_name_mismatch not found in parameter file. It has been set to its default value.
+Parameter: plot_interval not found in parameter file. It has been set to its default value.
+Parameter: stop_time not found in parameter file. It has been set to its default value.
+Parameter: max_steps not found in parameter file. It has been set to its default value.
+Parameter: write_plot_ghosts not found in parameter file. It has been set to its default value.
+Parameter: center not found in parameter file. It has been set to its default value.
+Parameter: regrid_threshold not found in parameter file. It has been set to its default value.
+Parameter: dt_multiplier not found in parameter file. It has been set to its default value.
+Parameter: fill_ratio not found in parameter file. It has been set to its default value.
+Parameter: hi_boundary not found in parameter file. It has been set to its default value.
+Parameter: lo_boundary not found in parameter file. It has been set to its default value.
+Parameter: ignore_checkpoint_name_mismatch not found in parameter file. It has been set to its default value.
+Parameter: plot_interval not found in parameter file. It has been set to its default value.
+Parameter: stop_time not found in parameter file. It has been set to its default value.
+Parameter: max_steps not found in parameter file. It has been set to its default value.
+Parameter: write_plot_ghosts not found in parameter file. It has been set to its default value.
+BasicAMRInterpolator test passed.
+Vector 7IntVect: 312 bytes (0 Mb)
+---------------------------------
+Total Unfreed : 312 bytes (0 Mb)
+peak memory usage: 18915618 bytes (18 Mb)
